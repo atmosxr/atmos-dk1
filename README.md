@@ -2,6 +2,9 @@
   <img alt="Atmos Logo" src="res/atmos_RGB.png"/>
 </p>
 
+<br/>
+<br/>
+
 # Atmos Extended Reality DK 1
 
 We are building an XR (AR/VR) headset that allows you to create XR experiences for the web. Our first headset will be made from off-the-shelf components and will be open source so others can build on top of it.
