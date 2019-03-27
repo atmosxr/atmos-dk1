@@ -1,7 +1,6 @@
 <p align="center">
   <img alt="Atmos Logo" src="res/atmos_RGB.png"/>
 </p>
-<h1 align="center">Atmos DK1</h1>
 
 # Atmos Extended Reality DK 1
 
@@ -36,6 +35,6 @@ Join the conversation on Discord: [Atmos Discord](https://discord.gg/djnEvwW)
 
 Stay up to date by following us on Twitter: [@atmosxr](https://twitter.com/atmosxr)
 
-# Sneak peak at our prototype
+# Sneak peak of our prototype
 
 ![Prototype Headset](res/headset0.png)
