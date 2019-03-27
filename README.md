@@ -35,3 +35,7 @@ If you are working on or plan to work on any projects on the web please reach ou
 Join the conversation on Discord: [Atmos Discord](https://discord.gg/djnEvwW)
 
 Stay up to date by following us on Twitter: [@atmosxr](https://twitter.com/atmosxr)
+
+# Sneak peak at our prototype
+
+![Prototype Headset](res/headset0.png)
