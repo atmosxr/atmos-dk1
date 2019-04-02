@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Atmos Logo" src="res/atmos_RGB.png"/>
+  <img alt="Atmos Logo" src="res/atmos_logo.jpg"/>
 </p>
 
 <br/>
