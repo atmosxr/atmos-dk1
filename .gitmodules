@@ -1,0 +1,3 @@
+[submodule "cad"]
+	path = cad
+	url = https://github.com/atmosxr/atmos-cad
